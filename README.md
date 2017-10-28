@@ -14,7 +14,7 @@
     - GLM
     - KernelDensity
     - DataFrames
-    - MNIST
+    - MNIST (Use https://github.com/johnmyleswhite/MNIST.jl.git on the unregistered packages section)
 
 3. Click the 'Start' button to begin the installation process.
 
