@@ -16,14 +16,14 @@
 
 ```
 cd /home/jrun
-git clone https://github.com/ranjanan/ODSC
+git clone https://github.com/JuliaComputing/ODSC
 cp -R /home/jrun/ODSC /mnt/juliabox
 ```
 
 ### Update
 Instead of following step 4 to clone the repo, we just recently added a `git` plugin, which you can try: 
 
-1. Copy `https://github.com/ranjanan/ODSC.git`
+1. Copy `https://github.com/JuliaComputing/ODSC.git`
 2. Click 'Git', paste. 
 3. Click on the '+' button. 
 
